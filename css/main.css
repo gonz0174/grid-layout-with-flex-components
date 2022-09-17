@@ -20,6 +20,7 @@ body {
   .emoji h2 {
     margin: 0;
     border-bottom: 2px solid #ccc;
+    order: 0;
   }
   
   .emoji a {
@@ -28,6 +29,7 @@ body {
     color: white;
     padding: 1rem;
     border-radius: 8px;
+    margin-top: 10px;
   }
   
   .icon {
